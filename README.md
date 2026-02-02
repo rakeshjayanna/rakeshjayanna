@@ -15,5 +15,4 @@
 
 
 > Building systems with intent.
-*Consistency beats motivation.*
 
