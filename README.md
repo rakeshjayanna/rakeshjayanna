@@ -1,46 +1,19 @@
-# Hello, folks! 👋
+## Hello, folks! 👋
 
-I'm **Rakesh J**, an Information Science & Engineering student and **Software Intern** who enjoys working on backend systems, cloud infrastructure, and clean frontend integrations.
-
----
-
-### 👨‍💻 Currently
-- 🎓 BE in Information Science Engineering  
-- 🏫 Global Academy of Technology (CGPA: **9.3**)  
-- 💼 Software Intern at **AI4NoCode**  
-- 🌱 Exploring **CI/CD, Cloud Monitoring & Scalable Systems**
+![version](https://img.shields.io/badge/version-2026-blue)
+![profile views](https://komarev.com/ghpvc/?username=rakeshjayanna&label=profile%20views&color=orange)
+![build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ---
 
-### 🧠 Interests
-- Backend Engineering  
-- Cloud & AWS Security  
-- System Design & APIs  
-
+- I’m an Information Science & Engineering student working as a Software Intern.
+- I enjoy building backend systems and working with cloud infrastructure.
+- I like clean code, minimal design, and systems that scale.
+- Currently exploring AWS, system design, and backend architecture.
 
 ---
 
-### 🛠️ Tech Stack
 
-**Languages**  
-Python · Java · JavaScript  
-
-**Frameworks & Libraries**  
-Spring Boot · Spring Data JPA · Hibernate  
-React JS 
-
-
-**Cloud & Tools**  
-AWS (CloudWatch, CloudTrail, Secrets Manager, SNS)  
-Git · GitHub · Maven · Postman  
-
-
-### 🌐 Connect
-- 💼 LinkedIn: https://linkedin.com/in/Rakeshjayanna  
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshjayanna&show_icons=true&theme=github_dark)
-
-
-> *“Build systems that last, not just code that works.”*
+> Building systems with intent.
+*Consistency beats motivation.*
 
